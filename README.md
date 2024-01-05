@@ -1,8 +1,15 @@
-### Minimal Config w/o workspace indicator
+## Minimal Config w/o workspace indicator
 
-# Wofi
+### Wofi
 ![1](https://github.com/Lemuelyy/Hyprland/assets/118256314/feeb0e2a-654f-4d25-9985-c015041dd982)
-# Wlogout
+### Wlogout
 ![2](https://github.com/Lemuelyy/Hyprland/assets/118256314/f1bd304e-85ae-48bf-aaf8-90e9940cd691)
-# Unixporn
+### Unixporn
 ![3](https://github.com/Lemuelyy/Hyprland/assets/118256314/adb3b917-96f7-4dc3-82e3-259d25e9b605)
+
+#### Keybinds:
+
+`mod + e` = toggle time and battery
+`mod + RETURN` = executes foot terminal
+`mod + d` = executes wofi
+`XF86PowerButton` = executes wlogout (HandlePowerKey must be set ignored in s`etc/systemd/logind.conf`)
