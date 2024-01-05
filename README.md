@@ -9,7 +9,7 @@
 
 #### Keybinds:
 
-`mod + e` = toggle time and battery
-`mod + RETURN` = executes foot terminal
-`mod + d` = executes wofi
-`XF86PowerButton` = executes wlogout (HandlePowerKey must be set ignored in s`etc/systemd/logind.conf`)
+- `mod + e` = toggle time and battery
+- `mod + RETURN` = executes foot terminal
+- `mod + d` = executes wofi
+- `XF86PowerButton` = executes wlogout. *HandlePowerKey must be set ignored in* `etc/systemd/logind.conf`
