@@ -1,0 +1,40 @@
+window {
+	font-size: 20px;
+	border: 3px solid rgba(196, 167, 231, 0.8);
+	border-radius: 15px;
+	background-color: rgba(25, 25, 36, 0.9);
+}
+
+#input {
+	color: rgb(235, 188, 186);
+	margin: 4px 150px 10px 150px;
+	font-size: 18px;
+	border: 2px solid #ebbcba;
+	border-radius: 15px;
+	background-color: rgb(31, 29, 46);
+}
+
+#input image {
+	background-color: rgba(0, 0, 0, 0);
+}
+
+#outer-box {
+	margin: 20px;
+}
+
+#text {
+	color: #ffffff;
+}
+
+#entry:selected {
+	margin: 3px 0px;
+	border-radius: 15px;
+	background-color: #c4a7e7;
+}
+
+#text:selected {
+	color: #191724;
+}
+
+
+
