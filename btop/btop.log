@@ -133,3 +133,9 @@
 2024/01/05 (13:37:53) | DEBUG: Using locale en_US.UTF-8
 2024/01/05 (13:37:53) | INFO: Running on /dev/pts/1
 2024/01/05 (13:37:53) | DEBUG: Loading theme file: /usr/share/btop/themes/HotPurpleTrafficLight.theme
+
+2024/01/05 (14:29:50) | ===> btop++ v.1.2.13
+2024/01/05 (14:29:50) | INFO: Logger set to DEBUG
+2024/01/05 (14:29:50) | DEBUG: Using locale en_US.UTF-8
+2024/01/05 (14:29:50) | INFO: Running on /dev/pts/0
+2024/01/05 (14:29:50) | DEBUG: Loading theme file: /usr/share/btop/themes/HotPurpleTrafficLight.theme
